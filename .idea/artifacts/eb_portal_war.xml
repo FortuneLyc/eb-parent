@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="eb-portal:war">
+    <output-path>$PROJECT_DIR$/eb-portal/target</output-path>
+    <root id="archive" name="eb-portal.war">
+      <element id="artifact" artifact-name="eb-portal:war exploded" />
+    </root>
+  </artifact>
+</component>

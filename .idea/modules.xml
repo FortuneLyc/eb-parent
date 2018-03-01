@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eb-console/eb-console.iml" filepath="$PROJECT_DIR$/eb-console/eb-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-core/eb-core.iml" filepath="$PROJECT_DIR$/eb-core/eb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-file/eb-file.iml" filepath="$PROJECT_DIR$/eb-file/eb-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-parent.iml" filepath="$PROJECT_DIR$/eb-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eb-portal/eb-portal.iml" filepath="$PROJECT_DIR$/eb-portal/eb-portal.iml" />
+    </modules>
+  </component>
+</project>
